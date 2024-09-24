@@ -1,0 +1,416 @@
+   41  shutdown -P
+   42  code .
+   43  git
+   44  exit
+   45  git
+   46  git config --global user.name "Sadullah-TANRIKULU"
+   47  git config --global user.email sadullahtanrikulu@gmail.com
+   48  exit
+   49  code .
+   50  python --version
+   51  python3 --version
+   52  exit
+   53  code .
+   54  exit
+   55  shutdown -P
+   56  libre
+   57  exit
+   58  nano myscript.sh
+   59  mv myscript.sh ~/Desktop/clarusway/linux/
+   60  cd Desktop/clarusway/linux/
+   61  cat
+   62  cat .
+   63  ls
+   64  touch yourscript.txt
+   65  nano myscript.sh 
+   66  ./myscript.sh
+   67  ll
+   68  chmod +x myscript.sh 
+   69  ll
+   70  nano myscript.sh 
+   71  ./myscript.sh 
+   72  ll
+   73  chmod -x yourscript.txt 
+   74  ll
+   75  cat yourscript.txt 
+   76  nano myscript.sh 
+   77  ./myscript.sh 
+   78  cat yourscript.txt 
+   79  ll
+   80  chmod -x yourscript.txt 
+   81  exit
+   82  cowsay
+   83  hwls
+   84  lshw
+   85  clear
+   86  su -i
+   87  su --help
+   88  su
+   89  sudo -i
+   90  sudo --help
+   91  exit
+   92  useradd osman
+   93  sudo useradd osman
+   94  ls
+   95  /
+   96  cd /
+   97  ls
+   98  cd
+   99  cd ..
+  100  ls
+  101  login osman
+  102  sudo -i
+  103  cd
+  104  sudo passwd user osman
+  105  sudo passwd osman
+  106  login osman
+  107  sudo login osman
+  108  cd ..
+  109  ls
+  110  mkdir osman
+  111  sudo mkdir osman
+  112  cd
+  113  sudo chown osman.osman /home/osman/
+  114  sudo chown osman:osman /home/osman/
+  115  cd ..
+  116  ll
+  117  cd
+  118  login osman
+  119  sudo login osman
+  120  cd ..
+  121  ls
+  122  ll
+  123  history
+  124  cd
+  125  sudo -i
+  126  pwd
+  127  ls
+  128  ls -al
+  129  mkdir test
+  130  cd test/
+  131  exit
+  132  ls
+  133  cd test/
+  134  mkdir paths languages distros
+  135  ls
+  136  cd distros
+  137  mkdir ubuntu debian mint fedora zorin
+  138  cd ..
+  139  ls
+  140  cd languages
+  141  mkdir c java python javascript perl php
+  142  ls
+  143  cd ..
+  144  ls
+  145  cd paths
+  146  mkdir full-stack data-science devops cyber-security
+  147  ls
+  148  cd ..
+  149  tree .
+  150  sudo apt install tree
+  151  tree
+  152  cd
+  153  exit
+  154  reboot
+  155  shutdown -P
+  156  htop
+  157  sudo apt install htop
+  158  htop
+  159  sudo apt autoremove htop
+  160  htop
+  161  exit
+  162  htop
+  163  exit
+  164  shutdown -P
+  165  ls
+  166  cd test
+  167  ls
+  168  tree
+  169  find . -name "j*"
+  170  clear
+  171  ls
+  172  ls -l
+  173  ls -s
+  174  ls -t
+  175  ls -u
+  176  history
+  177  ls -R
+  178  Ls
+  179  cd distros
+  180  ls -al
+  181  cd ..
+  182  cd languages/
+  183  ls
+  184  cd ..
+  185  cd languages/
+  186  ls
+  187  cd perl/
+  188  ls
+  189  cd ../..
+  190  cd /
+  191  ls
+  192  ls -al
+  193  cd
+  194  ls
+  195  cd test/
+  196  ls
+  197  cd paths/
+  198  ls
+  199  cd full-stack/
+  200  cd
+  201  ls
+  202  cd test
+  203  ls
+  204  cd distros/
+  205  ls
+  206  cd debian/
+  207  cd ..
+  208  rmdir debian/
+  209  ls
+  210  cd mint
+  211  pwd
+  212  touch file1.txt
+  213  cd ..
+  214  ls
+  215  cd fedora/
+  216  touch file2.txt
+  217  cd ..
+  218  cd ubuntu/
+  219  touch file3.txt
+  220  cd ..
+  221  cd ubuntu/
+  222  pwd
+  223  cd ~/sadullah/test/distros/zorin
+  224  cd /home/sadullah/test/distros/zorin/
+  225  cd ..
+  226  ls
+  227  cd ubuntu/
+  228  cd ..
+  229  cd zorin/
+  230  ls
+  231  touch file4.txt
+  232  cd ..
+  233  tree
+  234  ls -R
+  235  cd fedora/
+  236  ls
+  237  echo "I'm a full-stack developer"
+  238  echo "I'm a full-stack developer" > file2.txt 
+  239  cat file2.txt 
+  240  echo "I'm a data analyst" > file2.txt 
+  241  cat file2.txt 
+  242  echo "I'm a data scientist" >> file2.txt 
+  243  cat file2.txt 
+  244  cd ..
+  245  rmdir fedora/
+  246  ls
+  247  cd zorin
+  248  ls
+  249  rm file4.txt 
+  250  ls
+  251  cd ..
+  252  ls
+  253  cd ubuntu/
+  254  ls
+  255  cd ..
+  256  cd zorin/
+  257  touch file3.txt
+  258  ls
+  259  cd ..
+  260  cd ubuntu/
+  261  ls
+  262  echo "boş durmasın" >> file3.txt 
+  263  cat file3.txt 
+  264  cp file3.txt /home/sadullah/test/distros/zorin/
+  265  cd ..
+  266  cd zorin/
+  267  ls
+  268  cat file3.txt 
+  269  echo "2. satır da boş durmasın" >> file3.txt 
+  270  cat file3.txt 
+  271  cp -i file3.txt /home/sadullah/test/distros/ubuntu/
+  272  cd ..
+  273  cd ubuntu/
+  274  ls
+  275  cat file3.txt 
+  276  cd ..
+  277  cd zorin/
+  278  ls
+  279  cat file3.txt 
+  280  cp -i file3.txt /home/sadullah/test/distros/ubuntu/
+  281  cd ..
+  282  cd ubuntu/
+  283  ls
+  284  cat file3.txt 
+  285  cd ..
+  286  clear
+  287  cd ..
+  288  ls
+  289  cd languages/
+  290  ls
+  291  cd javascript/
+  292  touch file1.txt
+  293  cd ..
+  294  cd python/
+  295  touch file1.txt
+  296  ls
+  297  echo "something" >> file1.txt 
+  298  cat file1.txt 
+  299  cp -i file1.txt ~/test/languages/javascript/
+  300  cd ..
+  301  javascript/
+  302  cd javascript/
+  303  ls
+  304  cat file1.txt 
+  305  history
+  306  clear
+  307  cd ..
+  308  tree
+  309  cd python/
+  310  cd ..
+  311  mv ./python/file1.txt ./php/
+  312  tree
+  313  ls
+  314  clear
+  315  tree
+  316  ls
+  317  ls j*
+  318  ls j???
+  319  ls /j???
+  320  ls ./j???
+  321  ls ja?a
+  322  cd javascript/
+  323  ls 
+  324  ls fil??.*
+  325  ls fil?.*
+  326  clear
+  327  tree
+  328  cd ..
+  329  tree
+  330  ls p??
+  331  ls py????
+  332  find . -name "py????"
+  333  find . -name "py???"
+  334  find . -name "pe??"
+  335  cd javascript/
+  336  ls
+  337  clear
+  338  tree
+  339  mv file1.txt .file1.txt
+  340  ls
+  341  ls -al
+  342  ls
+  343  ls -al
+  344  cd ..
+  345  tree
+  346  mv /c /.c
+  347  mv c/ .c/
+  348  ls
+  349  ls -al
+  350  tree
+  351  whoami
+  352  uname -a
+  353  cd
+  354  whereis brave
+  355  whereis brave-browser
+  356  whereis javascript
+  357  exit
+  358  shutdown -P
+  359  shutdown -c
+  360  exit
+  361  shutdown -P
+  362  ls --help
+  363  clear
+  364  apropos ls
+  365  clear
+  366  man ls
+  367  info ls
+  368  ls
+  369  cd test/
+  370  tree
+  371  cd paths/
+  372  rmdir *
+  373  ls
+  374  xdg-open
+  375  cd ..
+  376  cd distros/
+  377  ll
+  378  explorer
+  379  ./
+  380  ls
+  381  cd fedora/
+  382  ls
+  383  .
+  384  ll
+  385  chmod -x file2.txt 
+  386  ll
+  387  xdg-open file2.txt 
+  388  ll
+  389  . explorer
+  390  xdg-open
+  391  explorer .
+  392  clear
+  393  ll
+  394  chmod --- file2.txt
+  395  chmod 111 file2.txt
+  396  ll
+  397  chmod 444 file2.txt
+  398  ll
+  399  chmod 666 file2.txt
+  400  ll
+  401  chmod 777 file2.txt
+  402  ll
+  403  chmod 222 file2.txt
+  404  ll
+  405  chmod 333 file2.txt
+  406  ll
+  407  chmod 555 file2.txt
+  408  ll
+  409  chmod 666 file2.txt
+  410  ll
+  411  clear
+  412  ll
+  413  chmod u=rwx file2.txt 
+  414  ll
+  415  chmod ugo=rwx file2.txt 
+  416  ll
+  417  chmod ug=rwx, o=r file2.txt 
+  418  chmod ug=rwx o=r file2.txt 
+  419  chmod ug=rwx file2.txt 
+  420  ll
+  421  chmod o=r file2.txt 
+  422  ll
+  423  chmod u=rwx,g=rx,o=- file2.txt 
+  424  ll
+  425  cd
+  426  cd /
+  427  pwd
+  428  clear
+  429  ls -al
+  430  cd ~
+  431  pwd
+  432  ping --help
+  433  ping -c 6 www.google.com
+  434  ping clarusway.com
+  435  ping -c 2 www.google.com
+  436  clear
+  437  whoami
+  438  systemctl hostname
+  439  systemctl host
+  440  systemctl hosts
+  441  systemctl --help
+  442  clear
+  443  whoami
+  444  cd test/
+  445  ls
+  446  nano paths/
+  447  cd paths/
+  448  touch myfile.txt
+  449  nano myfile.txt 
+  450  nano xfile.txt 
+  451  ll
+  452  cat xfile.txt 
+  453  nano xfile.txt 
+  454  vim xfile.txt 
+  455  history
+  456  history >> history.txt
