@@ -1,2 +1,5 @@
 boş durmasın
 2. satır da boş durmasın
+3.satır da boş durmasın
+bunu dev1 branch ı yazıyor
+bunu master branch ı yazıyor
