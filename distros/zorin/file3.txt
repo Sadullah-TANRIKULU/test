@@ -1,1 +1,3 @@
-MASTER ilk satıra yazıyor
+DEV1 ilk satıra yazıyor
+
+
